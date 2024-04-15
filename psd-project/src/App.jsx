@@ -11,7 +11,12 @@ function App() {
     <>
       <div>
 
-        <SectionPart/>
+        <section>
+          <SectionPart/>
+        </section>
+
+
+    
       
       </div>
     
