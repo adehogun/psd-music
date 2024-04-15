@@ -4,11 +4,11 @@ function SectionPart() {
 
 
   return (
-    <section className="bg-yellow-50 p-6">
- <div className="grid gap-10">
+    <section className="bg-yellow-50 p-5">
+ <div className="grid gap-8">
           
           <div className='flex justify-center items-center '>
-            <img className="h-auto p-0 w-80 rounded-lg object-cover transition duration-300 transform hover:scale-105 " src="https://media.gettyimages.com/id/1155047920/de/foto/band-sitzt-auf-sofa-und-spielt-instrumente.jpg?s=612x612&w=gi&k=20&c=GiTRvwIOG6pUUvc1iTZyBlUs1r192HjU6eeEiz8ZVHs=" alt="Featured Image" />
+            <img className="h-auto p-3 w-80 rounded-lg object-cover transition duration-300 transform hover:scale-105 " src="https://media.gettyimages.com/id/1155047920/de/foto/band-sitzt-auf-sofa-und-spielt-instrumente.jpg?s=612x612&w=gi&k=20&c=GiTRvwIOG6pUUvc1iTZyBlUs1r192HjU6eeEiz8ZVHs=" alt="Featured Image" />
           
           </div>
           <span className='p-1'>Beat Bliss</span>
@@ -39,8 +39,8 @@ function SectionPart() {
           <button type="button" className="focus:outline-none text-white bg-red-700 hover:bg-red-800 focus:ring-4 focus:ring-red-300 font-medium rounded-lg text-sm px-12 py-2.5 me-2 mb-2 dark:bg-red-600 dark:hover:bg-red-700 dark:focus:ring-red-900">Upgrade Now</button>
           </div>
 
-          <aside className="p-5 w-30 p-2 bg-green-200 rounded-lg shadow-md">
-  <h2 className=" text-sm font-bold text-purple-600 p-6 text-lg font-bold mb-10"> Why is Deezify Best Music Platform</h2>
+          <aside className="p-2 w-30 p-2 bg-gray-200 rounded-lg shadow-md">
+  <h2 className=" text-sm font-bold text-black-600 p-3 text-lg font-bold mb-10"> Why is Deezify Best Music Platform</h2>
   <p className="mb-24">At our musical stream platform, <br /> we believe in the transformative power of music to connect, inspire,and uplift. <br /> We believe that every beat, melody, and lyric has the potential to create a profound impact on individuals and communities alike. <br /> Our platform is founded on the belief that music transcends boundaries, bringing people together across cultures and backgrounds.</p>
   <span className="text-sm italic text-gray-500">By John Doe</span>
 </aside>
